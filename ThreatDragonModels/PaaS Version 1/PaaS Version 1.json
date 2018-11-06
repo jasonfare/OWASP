@@ -5,7 +5,11 @@
     "description": "App that takes files from external source, massages data, and then re-serves to other customers."
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Jason"
+      }
+    ],
     "diagrams": [
       {
         "title": "PaaS Scenario 1",
